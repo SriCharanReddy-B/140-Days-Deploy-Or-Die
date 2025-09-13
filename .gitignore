@@ -1,0 +1,5 @@
+# Ignore datasets
+*.csv
+
+# Ignore VS Code settings
+.vscode/
